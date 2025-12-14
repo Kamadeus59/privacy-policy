@@ -1,4 +1,4 @@
-s# Politique de confidentialité
+# Politique de confidentialité
 
 Cette application ne collecte, ne stocke et ne partage aucune donnée personnelle des utilisateurs.
 
