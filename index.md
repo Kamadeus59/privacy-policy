@@ -1,29 +1,24 @@
-# Politique de confidentialité
+# Privacy Policy
 
-Dernière mise à jour : 15 décembre 2025
+*Last updated: December 15, 2025*
 
-Cette application respecte la vie privée de tous ses utilisateurs, y compris les enfants de moins de 13 ans.
+This application respects the privacy of all users, including children under the age of 13.
 
-## Collecte des données
+## Data Collection
+This application does not collect, store, or share any personally identifiable information.
+No personal information (such as name, email address, or location) is requested or recorded.
 
-Cette application ne collecte, ne stocke et ne partage aucune donnée personnelle identifiable des utilisateurs.
-Aucune information personnelle (nom, adresse email, localisation, etc.) n’est demandée ou enregistrée par l’application.
+## Technical Data
+Anonymous technical data may be automatically collected by platform services (such as **Google Play Services**) to ensure proper app functionality (e.g. crash reports).
 
-## Données techniques
+## Children’s Privacy
+This application is suitable for children under the age of 13.
+No personal data from children is knowingly collected.
+If a parent or legal guardian believes that data has been collected by mistake, they may contact us to request its removal.
 
-Des données techniques anonymes peuvent être collectées automatiquement par les services de la plateforme (tels que Google Play Services) afin d’assurer le bon fonctionnement de l’application (par exemple : rapports de crash).
-
-## Protection des enfants
-
-L’application est adaptée à un public incluant des enfants de moins de 13 ans.
-Aucune donnée personnelle concernant les enfants n’est collectée intentionnellement.
-Si un parent ou tuteur estime que des données ont été collectées par erreur, il peut nous contacter afin qu’elles soient supprimées.
-
-## Partage des données
-
-Aucune donnée personnelle n’est partagée avec des tiers.
+## Data Sharing
+No personal data is shared with third parties.
 
 ## Contact
-
-Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter à :
-📧 kamadeus.dev@gmail.com
+If you have any questions about this Privacy Policy, please contact:
+📧 **kamadeus.dev@gmail.com**
